@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "zzuerfs",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731860708678,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "YjIyNjdlNDY2NzEwYzhhMmI4NjBhZmI5MzkzYmI3ZTI5MDE3YzJiMmQyOGQ5NWZlMmYwZDY1YTk2MDAyYmIwNmI5MzkzMzlmOGYzMGQzNmE5NzcxMGI3N2YzZDRiNmFmM2RjZWI5ZmFlNjBkMGM2ZTkyZWFiYjE2NmY5NmNkNzI=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
